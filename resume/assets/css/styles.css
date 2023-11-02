@@ -110,8 +110,8 @@ body.scale-cv {
   padding: 0 1rem;
 }
 .scale-cv .home__img {
-  display: none;
-  visibility: hidden;
+/*   display: none; */
+/*   visibility: hidden; */
   /* width: 90px;
   height: 90px; */
 }
